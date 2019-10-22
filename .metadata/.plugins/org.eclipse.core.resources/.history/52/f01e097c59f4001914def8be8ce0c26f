@@ -1,0 +1,16 @@
+package com.virtualpairprogrammers.isbntools;
+
+public class StockManager {
+	
+	private ExternalISBNDataService service;
+
+	public void setService(ExternalISBNDataService service) {
+		this.service = service;
+	}
+
+
+	public String getLocatorCode(String isbn) {
+		return null;
+	}
+
+}

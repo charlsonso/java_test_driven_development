@@ -1,0 +1,8 @@
+1571692933721	Delete element
+1571697402496	Extract method 'isThisAValid13DigitISBN'
+1571697426592	Extract method 'isThisAValid10DigitISBN'
+1571697478003	Extract constant 'LONG_ISBN_LENGTH'
+1571697518635	Extract constant 'SHORT_ISBN_LENGTH'
+1571697611401	Extract constant 'SHORT_ISBN_MULTIPLIER'
+1571697629927	Extract constant 'LONG_ISBN_MULTIPLIER'
+1571700624613	Rename field 'service'
